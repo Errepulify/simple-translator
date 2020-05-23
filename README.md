@@ -1,1 +1,1 @@
-<div align ="center"># **Simple Translator**</div>
+<div align ="center">**Simple Translator**</div>
